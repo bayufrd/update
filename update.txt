@@ -1,3 +1,14 @@
+Update Release 1.0.2.1 [02/06/24]
+- Perfomace
+- Smooth Performance Search
+- Smooth Performance GridView Load
+- [Demo] Cache Menu Items
+- [Demo] Cache Payment Type
+- [Demo] Cache Serving Type
+- [Demo] Cache Diskon Items
+- [Demo] Cache Diskon Cart
+- [Demo] Cache Image Async
+
 Update Release 1.0.2.1 [02/05/24]
 - Performance
 - Printing at Background
