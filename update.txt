@@ -1,4 +1,4 @@
-Update Release 1.0.2.1 [05/02/24]
+Update Release 1.0.2.1 [02/05/24]
 - Performance
 - Printing at Background
 - Add Items View
@@ -31,3 +31,68 @@ Update Release 1.0.2.1 [05/02/24]
   Dual Monitor 
 - Adding Reset or Redownload
   ImageCache
+
+Update Release 1.0.2.0 [02/03/24]
+- Fix UI and Buttom Simply
+
+Update Release 1.0.1.9 [02/01/24]
+- Deisgn and Respondsif at Riwayat
+
+Update Release 1.0.1.8 [02/01/24]
+- Fix All, and UI
+
+Update Release 1.0.1.7 [1/31/24]
+- Fixed Split
+- Fixed Simpan
+- Fix Kuantitas Ordered
+
+Update Release 1.0.1.6 [1/30/24]
+- Update Peritem Pin
+- Delete peritem Pin
+
+Update Release 1.0.1.5
+- UI New
+
+Update Release 1.0.1.4
+- Refund Logic
+- ListView Demo
+
+Update Release 1.0.1.3
+- Delete Cart
+- UI Keranjang
+
+Update Release 1.0.1.2
+- PerformSearch
+
+Update Release 1.0.1.1
+
+Update Release 1.0.1.0
+- BIG UPDATE UI
+- Add FooterStruk
+
+Update Release 1.0.0.9
+- Stabilized
+- New UI
+
+Update Release 1.0.0.8
+
+
+Update Release 1.0.0.7
+- Stabilized now
+- Old UI
+
+Update Release 1.0.0.6
+- Previous
+- New UI crash
+
+Update Release 1.0.0.5
+- Crash Payform
+
+Update Release 1.0.0.4
+- Ahong Payform
+
+Update Release 1.0.0.3
+
+Update Release 1.0.0.2
+
+Update Release 1.0.0.1
