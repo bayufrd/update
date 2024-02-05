@@ -1,1 +1,33 @@
-1.0.0.1
+Update Release 1.0.2.1 [05/02/24]
+- Performance
+- Printing at Background
+- Add Items View
+- Master Menu View
+- Display Menu Pastel Colors
+- Smooth SearchPerform
+- Add New Table Cetak Laporan 
+  Ulang and Cetak Laporan
+- Shift Counting 
+- Auto Fill for Cetak Laporan 
+  from Cash Real [Rp. 0,- Cash 
+  Different]
+- Fix Error Handling DataGridView 
+  Master Menu with Asyncronus and 
+  Invoker Background Load Items
+- Items Counting and Downloading
+  Items Information at SearchBar
+- Background Printing at ListBill
+  Or Savebill Item Ordered
+- Add Delete Discount 
+- Handle Discount Bug and Problem
+  when Items + Cart
+- Make some Panel Rounded
+- Removing ListVIew Items Options
+- Adding ListView For ComboFilter
+  Menu Type
+- Adding Fiture when access Menu
+  Type can do SearchBar
+- Relocation Icon Button for 
+  Dual Monitor 
+- Adding Reset or Redownload
+  ImageCache
