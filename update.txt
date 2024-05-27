@@ -1,3 +1,6 @@
+Downgrade SettingForm ]06/27/24]
+- Refactor and backto Settingform from gitlab last up
+
 Fixing Printer Mac [06/25/24]
 - Delete Syarat Isi Mac address 20 digit and Pin 4 digit
 
