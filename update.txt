@@ -1,3 +1,6 @@
+Fixing bug 1.0.2.6 [06/27/24]
+- 1.0.2.6 Delete cartID at Masterpos bug MenuGhost
+
 Downgrade SettingForm ]06/27/24]
 - Refactor and backto Settingform from gitlab last up
 
