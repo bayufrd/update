@@ -1,3 +1,9 @@
+Release Optimal version 1.0.2.8 [06/29/24]
+- Hapus Keranjang jika bug GhostMenu
+- Pengecekan mac kitchen dan bar jika ada
+- Penamaan Outlet dengan Rapi
+- Fixed Bug Struk
+
 Fixing bug 1.0.2.6 [06/27/24]
 - 1.0.2.6 Delete cartID at Masterpos bug MenuGhost
 
