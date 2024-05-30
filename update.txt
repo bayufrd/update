@@ -1,3 +1,5 @@
+1.0.3.0 Auto Sync Data cek [06/30/24]
+
 1.0.2.9 More Stabil and fixing split and delete ghost menu [06/29/24]
 
 Release Optimal version 1.0.2.8 [06/29/24]
