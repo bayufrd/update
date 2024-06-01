@@ -1,3 +1,5 @@
+1.0.3.1 Auto Update ON and addCart Double add Menu bug FIXED [07/01/24]
+
 1.0.3.0 Auto Sync Data cek [06/30/24]
 
 1.0.2.9 More Stabil and fixing split and delete ghost menu [06/29/24]
