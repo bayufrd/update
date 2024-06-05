@@ -1,3 +1,5 @@
+1.0.3.2 Fix bug, and Ignored kitchen and bar id mac not filled [07/07/24]
+
 1.0.3.1 Auto Update ON and addCart Double add Menu bug FIXED [07/01/24]
 - Adding Membership [Add, Edit, Delete]
 
