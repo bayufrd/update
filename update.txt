@@ -1,3 +1,5 @@
+1.0.3.4 Bug Masterpos (Main Menu) Fixed [07/07/24]
+
 1.0.3.3 Add MenuList Fitur and Smoother error [07/07/24]
 
 1.0.3.2 Fix bug, and Ignored kitchen and bar id mac not filled [07/07/24]
