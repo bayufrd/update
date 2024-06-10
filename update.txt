@@ -2,6 +2,9 @@
 - Penambahan nomor urut pada struk
 - Fix data grid view pada tampilan menu awal
 - Penambahan Menu List di Setting untuk kinerja yang lebih baik
+- Refactor Api Service untuk keadaan Outlet yang mana Jaringan terbatas, 
+agar mengoptimalkan kinerja dengan percobaan attemp berulang, dan menunggu
+yang mana agar aplikasi tidak crash/close program
 
 1.0.3.5 Smoother kinerja untuk gridMenu View [08/07/24]
 
