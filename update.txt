@@ -1,3 +1,8 @@
+1.0.3.6 Permudah tampilan kembalian dan ServingType saat addCart [10/07/24]
+- Penambahan nomor urut pada struk
+- Fix data grid view pada tampilan menu awal
+- Penambahan Menu List di Setting untuk kinerja yang lebih baik
+
 1.0.3.5 Smoother kinerja untuk gridMenu View [08/07/24]
 
 1.0.3.4 Bug Masterpos (Main Menu) Fixed [07/07/24]
