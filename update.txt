@@ -2,6 +2,7 @@
 - Update pencarian pada grid view impact dari pagenation
 - Mempercepat kinerja dalam load menu
 - Membatasi tampilan agar kinerja lebih optimal
+- Merapikan tampilan pada keranjang jika Nama menu panjang
 
 1.0.4.0 Refactor Api Service dan Counting Struct [11/07/24]
 
