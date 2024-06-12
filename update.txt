@@ -1,3 +1,5 @@
+1.0.4.2 add Number queue and add Reset Data [13/07/24]
+
 1.0.4.1 Penambahan Pagenation pada Menu dengan metode scroll [12/07/24]
 - Update pencarian pada grid view impact dari pagenation
 - Mempercepat kinerja dalam load menu
