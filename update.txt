@@ -1,3 +1,7 @@
+1.0.4.6 Pindah Shift Report dan Penambahan pengecekan data cache local saat aplikasi dimulai.
+
+1.0.4.5 Stabil 
+
 1.0.4.2 add Number queue and add Reset Data [13/07/24]
 
 1.0.4.1 Penambahan Pagenation pada Menu dengan metode scroll [12/07/24]
