@@ -1,3 +1,7 @@
+1.0.4.9 Dual Monitor For Jempolan Coffee Eatery
+
+1.0.4.8 Paling Stabil
+
 1.0.4.6 Pindah Shift Report dan Penambahan pengecekan data cache local saat aplikasi dimulai.
 
 1.0.4.5 Stabil 
