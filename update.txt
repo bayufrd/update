@@ -1,3 +1,7 @@
+1.0.5.1 Retry Policy Printer Error
+
+1.0.5.0 Switch Printer Priority
+
 1.0.4.9 Dual Monitor For Jempolan Coffee Eatery
 
 1.0.4.8 Paling Stabil
